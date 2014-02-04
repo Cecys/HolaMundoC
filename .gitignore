@@ -1,6 +1,15 @@
-*.class
+package helloword;
 
-# Package Files #
-*.jar
-*.war
-*.ear
+/**
+ *
+ * @author Cesar
+ */
+public class HelloWord {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("HELLO WORD BANDA");
+    }
+}
